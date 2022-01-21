@@ -2,18 +2,6 @@
 A current list of events/programs/initiatives for women in the tech area.
 
 
-## `Event/Workshop`
- - [Women Who Code](https://www.womenwhocode.com) 
-
-    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
-- [BlackHoodie](https://www.blackhoodie.re/)
-
-    BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
-- [Girls In Tech](http://www.girlsintech.org/)
-
-    GIT is a global nonprofit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
-
-
 ## `Open-Source`
 - [Girlscript Summer Of Code](https://gssoc.girlscript.tech/index.html#about)
    
@@ -28,13 +16,7 @@ A current list of events/programs/initiatives for women in the tech area.
     
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
-Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
-
-
-
-- [GitHub Campus Experts(https://education.github.com/experts)
-
-- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
+   Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source         organization on a 12+ week programming project under the guidance of mentors.
 
 -  [KDE Women](https://community.kde.org/KDE_Women)
 
@@ -45,9 +27,24 @@ Google Summer of Code is a global, online program focused on bringing new contri
  - [Outreach Program for Women](https://www.gnome.org/opw/)
 
     Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive     community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
+
 -  [Code Jam to I/O](https://codingcompetitions.withgoogle.com/codejamio)
 
-  Code Jam to I/O for Women
+- [GitHub Campus Experts](https://education.github.com/experts)
+
+- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
+
+## `Event/Workshop`
+ - [Women Who Code](https://www.womenwhocode.com) 
+
+    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+- [BlackHoodie](https://www.blackhoodie.re/)
+
+    BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
+- [Girls In Tech](http://www.girlsintech.org/)
+
+    GIT is a global nonprofit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
+
 
 ## `Initiatives`
 - [Buddy4Internship Program for Sophomore Girls!](https://docs.google.com/forms/d/1Z8NEX6h3ZUHkQAPJlf6hKdOZHCT-euksl3TqxBInfPQ/viewform?edit_requested=true)
