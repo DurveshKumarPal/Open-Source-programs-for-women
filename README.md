@@ -15,10 +15,27 @@ A current list of events/programs/initiatives for women in the tech area.
 
 
 ## `Open-Source`
+- [Girlscript Summer Of Code](https://gssoc.girlscript.tech/index.html#about)
+   
+   Girlscript Summer Of Code is a 3-month long open source project under Girlscript India. In this Summer Of Code, all the registered participants would get an exquisite            opportunity to interact with the mentors 
+- [MLH Fellowship ](https://fellowship.mlh.io/)
+   
+   The MLH Fellowship is a remote internship alternative for aspiring technologists. Spend 12 weeks building your skills by collaborating on real-world projects.
 
  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
 
     The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
+    
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+
+Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
+
+
+
+- [GitHub Campus Experts(https://education.github.com/experts)
+
+- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
+
 -  [KDE Women](https://community.kde.org/KDE_Women)
 
     KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
@@ -27,8 +44,10 @@ A current list of events/programs/initiatives for women in the tech area.
     Honor. Celebrate. Inspire. We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
  - [Outreach Program for Women](https://www.gnome.org/opw/)
 
-    Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
+    Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive     community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
+-  [Code Jam to I/O](https://codingcompetitions.withgoogle.com/codejamio)
 
+  Code Jam to I/O for Women
 
 ## `Initiatives`
 - [Buddy4Internship Program for Sophomore Girls!](https://docs.google.com/forms/d/1Z8NEX6h3ZUHkQAPJlf6hKdOZHCT-euksl3TqxBInfPQ/viewform?edit_requested=true)
