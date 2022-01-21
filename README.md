@@ -2,7 +2,7 @@
 A current list of events/programs/initiatives for women in the tech area.
 
 
-
+## `Event/Workshop`
  - [Women Who Code](https://www.womenwhocode.com) 
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
@@ -14,7 +14,7 @@ A current list of events/programs/initiatives for women in the tech area.
     GIT is a global nonprofit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
 
 
-### Linux/OpenSource
+## `Open-Source`
 
  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
 
@@ -30,11 +30,11 @@ A current list of events/programs/initiatives for women in the tech area.
     Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
 
 
-## Initiatives
+## `Initiatives`
 - [Buddy4Internship Program for Sophomore Girls!](https://docs.google.com/forms/d/1Z8NEX6h3ZUHkQAPJlf6hKdOZHCT-euksl3TqxBInfPQ/viewform?edit_requested=true)
    
 
-## Hackthon/Contests 
+## `Hackthon/Contests` 
 - [Women code to win](https://www.hackerrank.com/servicenow-women-code-to-win#servicenow)
 - [Shooting Stars All Girls Hackathon](https://ssf-all-girls-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover)
 
