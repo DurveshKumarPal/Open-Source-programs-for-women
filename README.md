@@ -44,10 +44,6 @@ A current list of events/programs/initiatives for women in the tech area.
 - [Girls In Tech](http://www.girlsintech.org/)
 
     GIT is a global nonprofit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
-
-
-## `Initiatives`
-- [Buddy4Internship Program for Sophomore Girls!](https://docs.google.com/forms/d/1Z8NEX6h3ZUHkQAPJlf6hKdOZHCT-euksl3TqxBInfPQ/viewform?edit_requested=true)
    
 
 ## `Hackthon/Contests` 
@@ -59,3 +55,6 @@ A current list of events/programs/initiatives for women in the tech area.
 - [Kurinji Hacks](https://kurinji-hacks.devpost.com/?ref_feature=challenge&ref_medium=discover)
 
 
+
+## `Initiatives`
+- [Buddy4Internship Program for Sophomore Girls!](https://docs.google.com/forms/d/1Z8NEX6h3ZUHkQAPJlf6hKdOZHCT-euksl3TqxBInfPQ/viewform?edit_requested=true)
